@@ -1,0 +1,10 @@
+#Anotações
+
+#-------------Data--------------------#
+# Ao lidar com Datas é interessante utilizar uma cópia para que o objeto não
+# seja alterado posteriormente.
+
+
+#------------Object-------------------#
+# Utilizar Object.freeze(<Obj>) para congelar o objeto e assim evitar que ele
+# possa ser alterado.
